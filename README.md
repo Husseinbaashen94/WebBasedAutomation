@@ -1,8 +1,8 @@
-#Automation Practice
+#Web-Based Automation Repo
 
-#####READ THIS BEFORE RUNNING YOUR PROJECT
+READ THIS BEFORE RUNNING YOUR PROJECT
 
-#####How to setup before running project:
+How to setup before running project:
 
 1. Install HomeBrew
 
